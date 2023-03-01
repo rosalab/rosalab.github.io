@@ -1,8 +1,8 @@
-# A Website Template for the ROSA Lab @ CSVT
+# Website Template for the ROSA Lab @ CSVT
 
 ## Introduction 
 
-This is a statically-generated Jekyll/Liquid/Bootstrap-based website template for academics.
+This is a statically-generated Jekyll/Liquid/Bootstrap-based website template.
 This website is inspired from [Dr. Spencer's](https://github.com/sbryngelson/academic-website-template#hosting) and [Allan lab's](https://www.allanlab.org/) webpage templates. These templates have been modified to meet our requirements.
 
 The documentation for how to use this template has been provided in the remainder of this document.
@@ -12,9 +12,9 @@ In short, there are three steps to be noted:
 * [Customize](#customization)
 * [Host](#hosting)
 
-## Fork and Build
+## Clone/Fork and Build
 
-Fork [the current repository]() by clicking the `fork` button in the top-right corner of the Github webpage.
+Clone [the repository](https://github.com/rosalab/rosa.github.io), or you can fork it by clicking the `fork` button in the top-right corner of the Github webpage.
 There are two ways you can use to set up the build environment: Natively or via a Docker container. 
 
 * If you want to build the site natively, you will need the following dependencies: 
