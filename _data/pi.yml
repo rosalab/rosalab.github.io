@@ -1,0 +1,22 @@
+- name: Dr. Dan Williams
+  photo: headshot.jpg
+  info: Assistant Professor, Department of Computer Science, Virginia Tech
+  email: djwillia@vt.edu
+  github: https://github.com/djwillia
+  researchgate: https://www.researchgate.net/scientific-contributions/Dan-Williams-70350670
+  scholar: https://scholar.google.com/citations?user=mu2x-1YAAAAJ&hl=en
+  #cv: cv/cv.pdf
+  # Change the number below to the number of "educations" you have (up to 6)
+  number_educ: 2
+  education1: "(2013) Ph.D. Computer Science, Cornell University"
+  education2: "(2008) B.S. Computer Science, Massachusetts Institute of Technology"
+  # education3: 
+  # education4: 
+  # education5: 
+  # education6: 
+  education1short: (2013) Ph.D. Computer Science, Cornell
+  education2short: (2008) B.S. Computer Science, MIT
+  # education3short: 
+  # education4short: 
+  # education5short: 
+  # education6short: 
