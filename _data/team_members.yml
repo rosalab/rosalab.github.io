@@ -1,9 +1,26 @@
+- name: Milo Craun
+  photo: rock.jpg
+  info: BS/MS CS, 2024/2025
+  email: miloc@vt.edu
+  website: milocraun.com
+
 - name: Raj Sahu
   photo: rock.jpg
-  info: MS, 2024
+  info: MS CS, 2024
   email: raj.sahu@vt.edu
   #website: no website
 
-- name: "This could be you !"
+- name: Siddharth Chintamaneni
   photo: rock.jpg
-  info: See <a href="www">openings</a> for more info
+  info: MS CS, 2024
+  email: sidchintamaneni@vt.edu
+  website: sidchintamaneni.github.io
+
+- name: Sai Roop Somaraju
+  photo: rock.jpg
+  info: MS CE, 2024
+  email: sairoop@vt.edu
+
+#i- name: "This could be you !"
+#  photo: rock.jpg
+#  info: See <a href="www">openings</a> for more info
