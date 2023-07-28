@@ -1,5 +1,5 @@
 # Site settings
-title: Rethinking Operating Systems Abstractions
+title: ROSA 
 email: rdjwillia@vt.edu
 description: Academic Webpage of the ROSA Lab at Virginia Tech
 baseurl: ""
@@ -30,9 +30,9 @@ nav_pages:
   - name: team
   - name: publications
   - name: research
-  - name: teaching
-  - name: talks
-#  - name: team
+#  - name: teaching
+#  - name: talks
+  - name: posts
 #  - name: teaching
 
 include:
@@ -94,3 +94,11 @@ exclude:
   - switch_theme.sh
   - tags
   - Rakefile
+
+defaults:
+  -
+    scope:
+        path: ""
+        type: "posts"
+    values:
+        layout: "post"
