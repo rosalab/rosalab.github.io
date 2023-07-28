@@ -13,14 +13,38 @@
   date = {2040},
 }
 
-@inproceedings{example_proceeding,
-    Author = {J. Doe},
-    Year = {2040},
-    Title = {Example title},
-    Booktitle = {Example Book},
-    Address = {Pasadena, CA},
-    file = {example_proceeding.pdf},
-    abstract = {Example abstract.},
+@inproceedings{10.1145/3593856.3595892,
+author = "Jia, Jinghao and Sahu, Raj and Oswald, Adam and Williams, Dan and Le, Michael V. and Xu, Tianyin",
+title = {Kernel Extension Verification is Untenable},
+year = {2023},
+isbn = {9798400701955},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3593856.3595892},
+doi = {10.1145/3593856.3595892},
+abstract = {The emergence of verified eBPF bytecode is ushering in a new era of safe kernel extensions. In this paper, we argue that eBPF's verifier---the source of its safety guarantees---has become a liability. In addition to the well-known bugs and vulnerabilities stemming from the complexity and ad hoc nature of the in-kernel verifier, we highlight a concerning trend in which escape hatches to unsafe kernel functions (in the form of helper functions) are being introduced to bypass verifier-imposed limitations on expressiveness, unfortunately also bypassing its safety guarantees. We propose safe kernel extension frameworks using a balance of not just static but also lightweight runtime techniques. We describe a design centered around kernel extensions in safe Rust that will eliminate the need of the in-kernel verifier, improve expressiveness, allow for reduced escape hatches, and ultimately improve the safety of kernel extensions.},
+booktitle = {Proceedings of the 19th Workshop on Hot Topics in Operating Systems},
+pages = {150–157},
+numpages = {8},
+keywords = {eBPF, safety, operating system, kernel extension, verification},
+location = {Providence, RI, USA},
+series = {HOTOS '23}
+}
+
+@inproceedings{ebpf23-decoupled-verification,
+    author = "Craun, Milo and Oswald, Adam and Williams, Dan",
+    title = {Enabling eBPF on Embedded Devices Through Decoupled Verification},
+    year = {2023},
+    booktitle = {Proceedings of ACM SIGCOMM Workshop on eBPF and Kernel Extensions (eBPF ’23)},
+    file = {ebpf23-decoupled.pdf},
+}
+
+@inproceedings{ebpf23-runtime,
+    author = "Sahu, Raj and Williams, Dan",
+    title = {Enabling BPF Runtime policies for better BPF management},
+    year = {2023},
+    booktitle = {Proceedings of ACM SIGCOMM Workshop on eBPF and Kernel Extensions (eBPF ’23)},
+    file = {ebpf23-runtime.pdf},
 }
 
 @incollection{example_conference,
