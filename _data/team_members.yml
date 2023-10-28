@@ -2,7 +2,6 @@
   photo: rock.jpg
   info: BS/MS CS, 2024/2025
   email: miloc@vt.edu
-  website: milocraun.com
 
 - name: Raj Sahu
   photo: rock.jpg
@@ -14,7 +13,6 @@
   photo: rock.jpg
   info: MS CS, 2024
   email: sidchintamaneni@vt.edu
-  website: sidchintamaneni.github.io
 
 - name: Sai Roop Somaraju
   photo: rock.jpg
@@ -23,15 +21,15 @@
 
 - name: Liam McBride
   photo: rock.jpg
-  info: UG CS, 2024
+  info: BS CS, 2024
   email: mailmcbride@vt.edu
   website: https://www.liam-mcbride.com
 
 - name: Uddhav P. Gautam
   photo: UddhavGautam.jpg
-  info: PhD CS, 2024
+  info: PhD CS, 2028
   email: upgautam@vt.edu
-  website: https://github.com/uddhavgautam3/uddhav_website
+  website: https://uddhavgautam3.github.io/
 
 #i- name: "This could be you !"
 #  photo: rock.jpg
