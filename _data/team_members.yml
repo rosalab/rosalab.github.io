@@ -29,7 +29,19 @@
   photo: UddhavGautam.jpg
   info: PhD CS, 2028
   email: upgautam@vt.edu
-  website: https://uddhavgautam3.github.io/
+  website: https://uddhavgautam.me/
+
+- name: Khizar Hussain
+  photo: rock.jpg
+  info: PhD CS, 2028
+  email: khizar@vt.edu
+  website: https://khizarhussain.dev/
+
+- name: Chinecherem Dimobi
+  photo: rock.jpg
+  info: MS CS, 2025
+  email: chinedimobi@vt.edu
+  website: https://www.linkedin.com/in/chinecherem-dimobi/
 
 #i- name: "This could be you !"
 #  photo: rock.jpg
