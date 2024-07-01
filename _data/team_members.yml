@@ -2,28 +2,12 @@
   photo: rock.jpg
   info: BS/MS CS, 2024/2025
   email: miloc@vt.edu
-
-- name: Raj Sahu
-  photo: rock.jpg
-  info: MS CS, 2024
-  email: raj.sahu@vt.edu
-  website: "https://www.linkedin.com/in/rjsu26/" 
+  website: https://milocraun.com
 
 - name: Siddharth Chintamaneni
   photo: rock.jpg
   info: MS CS, 2024
   email: sidchintamaneni@vt.edu
-
-- name: Sai Roop Somaraju
-  photo: rock.jpg
-  info: MS CE, 2024
-  email: sairoop@vt.edu
-
-- name: Liam McBride
-  photo: rock.jpg
-  info: BS CS, 2024
-  email: mailmcbride@vt.edu
-  website: https://www.liam-mcbride.com
 
 - name: Uddhav P. Gautam
   photo: UddhavGautam.jpg
@@ -42,6 +26,11 @@
   info: MS CS, 2025
   email: chinedimobi@vt.edu
   website: https://www.linkedin.com/in/chinecherem-dimobi/
+
+- name: Zhengjie Ji
+  photo: rock.jpg
+  info: PhD CS
+  email: zhengjie@vt.edu
 
 #i- name: "This could be you !"
 #  photo: rock.jpg

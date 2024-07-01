@@ -3,3 +3,13 @@
 #  duration: In the lab 2015-18
 #  info: Now at Univeristy of X
 #  email: exampleemail@gmail.com
+- name: Raj Sahu
+  photo: rock.jpg
+  info: MS CS, 2024
+  email: raj.sahu@vt.edu
+  website: "https://www.linkedin.com/in/rjsu26/" 
+
+- name: Sai Roop Somaraju
+  photo: rock.jpg
+  info: MS CE, 2024
+  email: sairoop@vt.edu
