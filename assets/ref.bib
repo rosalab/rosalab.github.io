@@ -35,3 +35,45 @@ series = {HOTOS '23}
     url = {https://doi.org/10.1145/3609021.3609296},
     doi = {10.1145/3609021.3609297},
 }
+
+@inproceedings{10.1145/3672197.3673440,
+author = {Chintamaneni, Siddharth and Somaraju, Sai Roop and Williams, Dan},
+title = {Unsafe kernel extension composition via BPF program nesting},
+year = {2024},
+isbn = {9798400707124},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3672197.3673440},
+doi = {10.1145/3672197.3673440},
+abstract = {BPF programs provide the ability to extend the kernel while ensuring safety. The safety guarantees are provided by the in-kernel verifier. However, the verification guarantees may not hold when multiple BPF programs interact with each other through helper functions. This is because, while verifying a BPF program, the verifier considers each BPF program as an individual unit rather than part of a composite system. One aspect affected by this unsafe composition is the kernel stack. In this paper, we highlight how different possible nesting scenarios can affect the safety of the kernel stack. To address this problem, we propose a helper-rooted callgraph-based approach, which enables the verifier to have a global view of the system. By using the callgraph and maximum stack depth information during verification, the verifier will either accept or reject a program by considering all the possible nesting scenarios, which ensures runtime stack safety.},
+booktitle = {Proceedings of the ACM SIGCOMM 2024 Workshop on EBPF and Kernel Extensions},
+pages = {65–67},
+numpages = {3},
+keywords = {callgraph, dynamic tracing, eBPF},
+location = {Sydney, NSW, Australia},
+series = {eBPF '24}
+}
+
+
+
+@inproceedings{10.1145/3672197.3673431,
+author = {Craun, Milo and Hussain, Khizar and Gautam, Uddhav and Ji, Zhengjie and Rao, Tanuj and Williams, Dan},
+title = {Eliminating eBPF Tracing Overhead on Untraced Processes},
+year = {2024},
+isbn = {9798400707124},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3672197.3673431},
+doi = {10.1145/3672197.3673431},
+abstract = {Current eBPF-based kernel extensions affect entire systems, and are coarse-grained. For some use cases, like tracing, operators are more interested in tracing a subset of processes (e.g., belonging to a container) rather than all processes. While overhead from tracing is expected for targeted processes, we find untraced processes---those that are not the target of tracing---also incur performance overhead. To better understand this overhead, we identify and explore three techniques for per-process filtering for eBPF: post-eBPF, in-eBPF, and pre-eBPF filtering, finding that all three approaches result in excessive overhead on untraced processes. Finally, we propose a system that allows for zero-untraced-overhead per-process eBPF tracing by modifying kernel virtual memory mappings to present per-process kernel views, effectively enabling untraced processes to execute on the kernel as if no eBPF programs are attached.},
+booktitle = {Proceedings of the ACM SIGCOMM 2024 Workshop on EBPF and Kernel Extensions},
+pages = {16–22},
+numpages = {7},
+keywords = {copy-on-write, dynamic tracing, eBPF, tracing overhead},
+location = {Sydney, NSW, Australia},
+series = {eBPF '24}
+}
+
+  
+
+

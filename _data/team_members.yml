@@ -1,13 +1,9 @@
 - name: Milo Craun
   photo: rock.jpg
-  info: BS/MS CS, 2024/2025
+  info: PhD CS, entered 2024 
   email: miloc@vt.edu
   website: https://milocraun.com
 
-- name: Siddharth Chintamaneni
-  photo: rock.jpg
-  info: MS CS, 2024
-  email: sidchintamaneni@vt.edu
 
 - name: Uddhav P. Gautam
   photo: UddhavGautam.jpg
@@ -15,11 +11,38 @@
   email: upgautam@vt.edu
   website: https://uddhavgautam.me/
 
-- name: Khizar Hussain
+    #- name: Khizar Hussain
+    #  photo: rock.jpg
+    #  info: PhD CS, 2028
+    #  email: khizar@vt.edu
+    #  website: https://khizarhussain.dev/
+
+
+- name: Zhengjie Ji
   photo: rock.jpg
-  info: PhD CS, 2028
-  email: khizar@vt.edu
-  website: https://khizarhussain.dev/
+  info: PhD CS
+  email: zhengjie@vt.edu
+
+- name: Egor Lukiyanov
+  photo: rock.jpg
+  info: PhD CS
+  email: egor@vt.edu
+
+- name: Donia Ghazy
+  photo: rock.jpg
+  info: PhD CS
+  email: doniaghazy@vt.edu
+
+- name: Quanzhi Fu
+  photo: rock.jpg
+  info: PhD CS
+  email: quanzhif@vt.edu
+
+
+- name: Siddharth Chintamaneni
+  photo: rock.jpg
+  info: MS CS, 2024
+  email: sidchintamaneni@vt.edu
 
 - name: Chinecherem Dimobi
   photo: rock.jpg
@@ -27,10 +50,15 @@
   email: chinedimobi@vt.edu
   website: https://www.linkedin.com/in/chinecherem-dimobi/
 
-- name: Zhengjie Ji
+- name: Kavya Shekar 
   photo: rock.jpg
-  info: PhD CS
-  email: zhengjie@vt.edu
+  info: MS CS, 2026
+  email: skavya@vt.edu
+
+- name: Rahul Tiwari
+  photo: rock.jpg
+  info: MS CS, 2026
+  email: rahult@vt.edu
 
 #i- name: "This could be you !"
 #  photo: rock.jpg

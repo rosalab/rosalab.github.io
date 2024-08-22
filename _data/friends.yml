@@ -1,0 +1,15 @@
+- name: Tanuj Rao 
+  photo: rock.jpg
+  info: PhD CS 
+  email: tansanrao@vt.edu
+  website: https://tansanrao.com/about/
+
+- name: Khizar Hussain
+  photo: rock.jpg
+  info: PhD CS, 2028
+  email: khizar@vt.edu
+  website: https://khizarhussain.dev/
+
+#i- name: "This could be you !"
+#  photo: rock.jpg
+#  info: See <a href="www">openings</a> for more info
