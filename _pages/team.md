@@ -7,8 +7,6 @@ permalink: /team/
 
 ## Team
 
- **We are  looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
 ## Faculty
 
 {% for member in site.data.pi %}

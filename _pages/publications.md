@@ -18,7 +18,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 
 <div class="jumbotron">
-### Cnference Papers
+### Conference Papers
 {% bibliography --query @inproceedings %}
 </div>
 
