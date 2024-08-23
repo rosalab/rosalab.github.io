@@ -18,6 +18,7 @@ affiliation: >
 
 location: >
   Virginia Polytechnic Institute and State University<br/>
+  Gilbert Place 4215<br/>
   Blacksburg<br/>
   Virginia, 24060
 
@@ -86,6 +87,10 @@ scholar:
 
   bibliography_list_attributes:
     reversed: "reversed"
+
+milo_craun:
+  name: Milo Craun
+  email: miloc@vt.edu
 
 exclude:
   - Gemfile

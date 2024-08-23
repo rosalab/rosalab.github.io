@@ -1,5 +1,5 @@
 - name: Milo Craun
-  photo: rock.jpg
+  photo: milo.jpg
   info: PhD CS, entered 2024 
   email: miloc@vt.edu
   website: https://milocraun.com
@@ -19,14 +19,16 @@
 
 
 - name: Zhengjie Ji
-  photo: rock.jpg
+  photo: zhengjie.png
   info: PhD CS
   email: zhengjie@vt.edu
+  website: https://zhengjieji.github.io/
 
 - name: Egor Lukiyanov
   photo: rock.jpg
   info: PhD CS
   email: egor@vt.edu
+  website: https://egor.lukiyanov.name/index.html
 
 - name: Donia Ghazy
   photo: rock.jpg
@@ -42,12 +44,13 @@
   photo: rock.jpg
   info: PhD CS
   email: ericts@vt.edu
-
+  website: https://eric-unc.tech/
 
 - name: Siddharth Chintamaneni
   photo: rock.jpg
   info: MS CS, 2024
   email: sidchintamaneni@vt.edu
+  website: https://sidchintamaneni.github.io/about/
 
 - name: Chinecherem Dimobi
   photo: rock.jpg
