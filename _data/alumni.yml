@@ -5,11 +5,23 @@
 #  email: exampleemail@gmail.com
 - name: Raj Sahu
   photo: rock.jpg
-  info: MS CS, 2024
+  info: NetApp (prev. MS CS, 2024)
   email: raj.sahu@vt.edu
   website: "https://www.linkedin.com/in/rjsu26/" 
 
 - name: Sai Roop Somaraju
   photo: rock.jpg
-  info: MS CE, 2024
+  info: Apple (prev. MS CE, 2024)
   email: sairoop@vt.edu
+
+- name: Siddharth Chintamaneni
+  photo: siddharth.jpg
+  info: Microsoft (prev. MS CS, 2024)
+  email: sidchintamaneni@vt.edu
+  website: https://sidchintamaneni.github.io/about/
+
+- name: Chinecherem Dimobi
+  photo: rock.jpg
+  info: Intuit (prev. MS CS, 2025)
+  email: chinedimobi@vt.edu
+  website: https://www.linkedin.com/in/chinecherem-dimobi/
