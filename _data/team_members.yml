@@ -1,22 +1,14 @@
+- name: Tanuj Rao 
+  photo: tanuj.jpg
+  info: PhD CS (co with Professor Ali Butt)
+  email: tansanrao@vt.edu
+  website: https://tansanrao.com/about/
+
 - name: Milo Craun
   photo: milo.jpg
   info: PhD CS, entered 2024 
   email: miloc@vt.edu
   website: https://milocraun.com
-
-
-- name: Uddhav P. Gautam
-  photo: UddhavGautam.jpg
-  info: PhD CS, 2028
-  email: upgautam@vt.edu
-  website: https://uddhavgautam.me/
-
-    #- name: Khizar Hussain
-    #  photo: rock.jpg
-    #  info: PhD CS, 2028
-    #  email: khizar@vt.edu
-    #  website: https://khizarhussain.dev/
-
 
 - name: Zhengjie Ji
   photo: zhengjie.png
@@ -42,24 +34,11 @@
   website: https://fqzz2000.github.io/
   photo: quanzhi.jpg
 
-
 - name: Eric Schneider 
   photo: eric.jpeg
   info: PhD CS
   email: ericts@vt.edu
   website: https://eric-unc.tech/
-
-- name: Siddharth Chintamaneni
-  photo: siddharth.jpg
-  info: MS CS, 2024
-  email: sidchintamaneni@vt.edu
-  website: https://sidchintamaneni.github.io/about/
-
-- name: Chinecherem Dimobi
-  photo: rock.jpg
-  info: MS CS, 2025
-  email: chinedimobi@vt.edu
-  website: https://www.linkedin.com/in/chinecherem-dimobi/
 
 - name: Kavya Shekar 
   photo: rock.jpg

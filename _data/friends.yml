@@ -1,9 +1,3 @@
-- name: Tanuj Rao 
-  photo: tanuj.jpg
-  info: PhD CS 
-  email: tansanrao@vt.edu
-  website: https://tansanrao.com/about/
-
 - name: Khizar Hussain
   photo: rock.jpg
   info: PhD CS, 2028
@@ -15,6 +9,14 @@
   info: Certified goofball and meme enthusiast
   email: lingxiang.wang.2016@gmail.com
   website: https://w93163red.github.io/
-#i- name: "This could be you !"
-#  photo: rock.jpg
-#  info: See <a href="www">openings</a> for more info
+
+- name: Uddhav P. Gautam
+  photo: UddhavGautam.jpg
+  info: PhD CS, 2028
+  email: upgautam@vt.edu
+  website: https://uddhavgautam.me/
+
+- name: Connor Sughrue
+  photo: rock.jpg
+  info: MS CE, 2026
+  email: cpsughrue@vt.edu
