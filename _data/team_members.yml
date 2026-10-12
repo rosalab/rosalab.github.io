@@ -16,12 +16,6 @@
   email: zhengjie@vt.edu
   website: https://zhengjieji.github.io/
 
-- name: Egor Lukiyanov
-  photo: egor.jpg
-  info: PhD CS
-  email: egor@vt.edu
-  website: https://egor.lukiyanov.name/index.html
-
 - name: Donia Ghazy
   photo: rock.jpg
   info: PhD CS
@@ -42,13 +36,13 @@
 
 - name: Kavya Shekar 
   photo: rock.jpg
-  info: MS CS, 2026
+  info: PhD CS
   email: skavya@vt.edu
 
-- name: Rahul Tiwari
+- name: Christian Franklin
   photo: rock.jpg
-  info: MS CS, 2026
-  email: rahult@vt.edu
+  info: MS CS
+  email: christianf23@vt.edu
 
 #i- name: "This could be you !"
 #  photo: rock.jpg
